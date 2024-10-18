@@ -1,0 +1,259 @@
+name,yelp_id,categories,rating,address,latitude,longitude,price,review_count,is_closed,distance
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,295.7763124661528
+The Farmhouse,WZz3gI0V6hN9M_cpeyo9Jg,"Italian, Wine Bars",4.3,"['352 East 10th Avenue', 'Vancouver, BC V5T 1Z7', 'Canada']",49.26185879464837,-123.09710762514682,N/A,28,False,298.18144136739915
+Lunch Lady,9Waotz-_G9woVPWZTmZcwA,Vietnamese,4.1,"['1046 Commercial Drive', 'Vancouver, BC V5L 3W9', 'Canada']",49.27497,-123.06915,$$,261,False,208.56830438281096
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,476.1727635645001
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,652.660730350863
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,971.1667943828817
+Seaport City Seafood Restaurant,F5wxgIiZE7LYQxgqhI483A,"Dim Sum, Seafood, Cantonese",4.2,"['2425 Cambie Street', 'Vancouver, BC V5Z 4M5', 'Canada']",49.263921119674905,-123.115152,$$$,69,False,273.2789898216345
+Mr. Red Cafe,EvVCF3mompCg3PPkpqip2A,Vietnamese,3.8,"['2680 W Broadway', 'Vancouver, BC V6K 2G3', 'Canada']",49.2640755304294,-123.165913715756,$$,125,False,182.81405118768274
+Autostrada,rNNb7vUPlyk2vBnVsEUWKg,"Italian, Wine Bars",3.8,"['4811 Main Street', 'Vancouver, BC V5V 3R9', 'Canada']",49.24172,-123.10185,$$$,106,False,302.9020108698075
+Dundas Eat + Drink,RjaMcWoyG_CFh-M61fahxA,"Vietnamese, Asian Fusion, Beer Bar",4.2,"['2077 Dundas Street', 'Vancouver, BC V5L 1J5', 'Canada']",49.285084,-123.062273,$$,75,False,123.57886752884158
+iDen & Quan Ju De Beijing Duck House,Zi8Ywk36Ws_4zjw2gjMMFA,Chinese,3.6,"['2808 Cambie Street', 'Vancouver, BC V5Z 2V5', 'Canada']",49.26021,-123.1148451,N/A,152,False,60.853980634931204
+Finest At Sea Seafood Boutique,kIdwy77j0rV5KCZ0y9SEQQ,"Seafood Markets, Seafood, Food Trucks",3.3,"['4675 Arbutus Street', 'Vancouver, BC V6J 4A3', 'Canada']",49.2444796206499,-123.153893832788,$$,40,False,376.7733926590602
+Osteria Savio Volpe,gNCSbTm3unsdztncbgSv5A,Italian,4.2,"['615 Kingsway', 'Vancouver, BC V5T 3K5', 'Canada']",49.2574913,-123.0909344,$$$,463,False,113.3631500527942
+Pink Peppercorn Seafood House,52o82-XanIGhqQySWbiuPg,Seafood,4.3,"['1485 Kingsway', 'Vancouver, BC V5N 2R6', 'Canada']",49.2493583,-123.0739159,$$$,159,False,1012.741914834904
+Hawksworth Restaurant,70D_rxm388HaD2qMTB59xw,Canadian (New),4.1,"['801 W Georgia Street', 'Vancouver, BC V6C 1P7', 'Canada']",49.2833971,-123.1191704,$$$,694,False,223.5158549686978
+Guu with Garlic,GmEeIcJ9vR04kxzYgPMEgg,"Japanese, Tapas/Small Plates",4.3,"['1698 Robson Street', 'Vancouver, BC V6G 1C7', 'Canada']",49.290249,-123.1338142,$$,1081,False,140.44072077566344
+Zarak By Afghan Kitchen,piwi7Au_17aUKuC2S97Nkg,"Afghan, Cocktail Bars, Breakfast & Brunch",4.5,"['2102 Main Street', 'Vancouver, BC V5T 0K1', 'Canada']",49.266224,-123.1006089,N/A,120,False,333.5533874065862
+Fassil Ethiopian Restaurant,9KgB4mKZnW7GRU3zjPcxvw,Ethiopian,4.3,"['736 Broadway E', 'Vancouver, BC V5T 1X9', 'Canada']",49.262316686122,-123.08833077466,$$,154,False,119.21978074253657
+Zarak By Afghan Kitchen,piwi7Au_17aUKuC2S97Nkg,"Afghan, Cocktail Bars, Breakfast & Brunch",4.5,"['2102 Main Street', 'Vancouver, BC V5T 0K1', 'Canada']",49.266224,-123.1006089,N/A,120,False,310.903942529523
+Hachibei Japanese Restaurant,E1ygd4cHPPlD0TYKg7Berw,Japanese,3.9,"['778 16th Avenue W', 'Vancouver, BC V5Z 1S7', 'Canada']",49.256899,-123.1215336,$$,80,False,108.98301596590545
+Tutto,vdQbDQHPq_nA30ngxEgMJg,"Italian, Bars",4.3,"['901 Homer St', 'Vancouver, BC V6B 2W6', 'Canada']",49.2784091,-123.1187139,$$$,67,False,89.95350947442351
+Fanny Bay Oyster Bar & Shellfish Market,Ufhxnrt_OJu4jHfVTP3aRQ,"Seafood, Seafood Markets",4.4,"['762 Cambie St', 'Vancouver, BC V6B 2P2', 'Canada']",49.2787525,-123.1138689,$$$,891,False,93.32238994432636
+L'Abattoir,7Tne8P5zyMpJKfpjQg2P-g,"French, Canadian (New), Breakfast & Brunch",4.2,"['217 Carrall Street', 'Vancouver, BC V6B 2J1', 'Canada']",49.2831869855333,-123.104450140894,$$$,602,False,61.190864689574795
+Published On Main,5-adl2zPRMgammVOoz5WEg,"Tapas/Small Plates, Wine Bars, Cocktail Bars",4.3,"['3593 Main Street', 'Vancouver, BC V5V 3N4', 'Canada']",49.25283186017385,-123.10116032897228,N/A,152,False,210.6305485841602
+Chambar,_4R46MNkwx9MeOyt0YfNxA,Belgian,4.2,"['568 Beatty Street', 'Vancouver, BC V6B 2L3', 'Canada']",49.2801460007961,-123.109925328073,$$,1601,False,493.94623167665424
+Harbour Oyster + Bar,ulsLlVcGvuLOSN0n3bR2zg,"Cocktail Bars, Seafood, Fish & Chips",4.2,"['1408 Commercial Drive', 'Vancouver, BC V5L 3X9', 'Canada']",49.2718946138822,-123.069181591272,$$,84,False,320.8717787314843
+CRAFT Beer Market,P8ivaSJ-_FmC01Z_2Npuig,"Beer Bar, Burgers, Canadian (New)",3.4,"['85 W 1st Avenue', 'Salt Building', 'Vancouver, BC V5Y 3K8', 'Canada']",49.2702147,-123.1060713,$$,536,False,31.874767343898476
+Fassil Ethiopian Restaurant,9KgB4mKZnW7GRU3zjPcxvw,Ethiopian,4.3,"['736 Broadway E', 'Vancouver, BC V5T 1X9', 'Canada']",49.262316686122,-123.08833077466,$$,154,False,330.5913094965101
+Straight and Marrow,gfj2Nyut-fEjWOMQBjQ7xg,Gastropubs,4.4,"['1869 Powell Street', 'Vancouver, BC V5L 1H8', 'Canada']",49.2848302,-123.0661495,N/A,37,False,114.34071933350647
+Anh and Chi,l184Y1d3oAa5_Al4YIaRjQ,"Vietnamese, Cocktail Bars",3.9,"['3388 Main Street', 'Vancouver, BC V5V 3M7', 'Canada']",49.2550314422938,-123.100882202153,$$$,717,False,54.72735884510411
+Fassil Ethiopian Restaurant,9KgB4mKZnW7GRU3zjPcxvw,Ethiopian,4.3,"['736 Broadway E', 'Vancouver, BC V5T 1X9', 'Canada']",49.262316686122,-123.08833077466,$$,154,False,242.49711997809135
+Blue Water Cafe,gt1BSfVFvzI-qHdJ3LUZug,Seafood,4.4,"['1095 Hamilton St', 'Vancouver, BC V6B 5T4', 'Canada']",49.2761945,-123.1209935,$$$$,1135,False,181.15626165812913
+Temaki Sushi,OULhS4WGI_mh5gRGLZBySg,"Sushi Bars, Japanese",4.2,"['2156 W Broadway', 'Suite 2', 'Vancouver, BC V6K 2C8', 'Canada']",49.263919,-123.154395,$$,170,False,176.0863514941588
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,299.1753609603427
+Osteria Savio Volpe,gNCSbTm3unsdztncbgSv5A,Italian,4.2,"['615 Kingsway', 'Vancouver, BC V5T 3K5', 'Canada']",49.2574913,-123.0909344,$$$,463,False,403.5884249214657
+The Mackenzie Room,rpJpZOvTPbVmBh2goK1iOA,Canadian (New),4.5,"['415 Powell Street', 'Vancouver, BC V6A 1G7', 'Canada']",49.2832349,-123.0948578,$$$$,205,False,280.4515473771323
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,518.5904286125102
+Miku,4EV_ZcQmjAmP3pmO-_nb2A,"Japanese, Sushi Bars",4.4,"['200 Granville Street', 'Suite 70', 'Vancouver, BC V6C 1S4', 'Canada']",49.28691298612272,-123.11304877258942,$$$,2379,False,300.3723702828249
+Starbucks,XUpvRzbGN9XoLiw44M7qzQ,Coffee & Tea,3.7,"['6190 Agronomy Rd', 'UBC', 'Vancouver, BC V6T 1L9', 'Canada']",49.261327,-123.2465728,$$,17,False,74.50627977358224
+Bean Around The World UBC,2RDeCj6-S0k9mFifvoA8Zg,Coffee & Tea,3.9,"['6308 Thunderbird Blvd', 'Vancouver, BC V6T 1Z4', 'Canada']",49.2590546,-123.2485356,$$,28,False,225.90786586382578
+Temaki Sushi,OULhS4WGI_mh5gRGLZBySg,"Sushi Bars, Japanese",4.2,"['2156 W Broadway', 'Suite 2', 'Vancouver, BC V6K 2C8', 'Canada']",49.263919,-123.154395,$$,170,False,77.08871609840271
+The Burrow,UbwADEKly9ZiNzviUJbc0w,"Mexican, Vegetarian, Breakfast & Brunch",3.9,"['2781 Commercial Drive', 'Vancouver, BC V5N 4C5', 'Canada']",49.2597591,-123.0700099,$$,516,False,313.0194909955024
+Anh and Chi,l184Y1d3oAa5_Al4YIaRjQ,"Vietnamese, Cocktail Bars",3.9,"['3388 Main Street', 'Vancouver, BC V5V 3M7', 'Canada']",49.2550314422938,-123.100882202153,$$$,717,False,373.5279159297356
+Joon's Kitchen,4sJgeCWPtd9Hx1OcXXmX_w,"Korean, Japanese",4.0,"['3093 Oak Street', 'Vancouver, BC V6H 2K8', 'Canada']",49.25814006151812,-123.1271603431787,N/A,71,False,310.95634415184685
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,917.7239472243831
+La Quercia,Mfdo3zuB2P0xFQ40DLPaEQ,"Italian, Wine Bars",4.1,"['3689 W 4th Avenue', 'Vancouver, BC V6R 1P2', 'Canada']",49.2687649,-123.1853601,$$$,213,False,268.15960950347124
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,1070.2524951976866
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,54.99091675773941
+Le Crocodile Restaurant,GSg5v3ZJxmMPrlAXqat8tA,French,4.3,"['909 Burrard Street', 'Suite 100', 'Vancouver, BC V6Z 2N2', 'Canada']",49.2825393,-123.1252052,$$$$,465,False,37.08295434389578
+PiDGiN,H4h_nwZW7f2Yj9ONdzGxHQ,"Japanese, Korean, French",4.0,"['350 Carrall Street', 'Vancouver, BC V6B 2J3', 'Canada']",49.2819071402452,-123.104188653967,$$$,343,False,221.8931551092717
+Burgoo Bistro,oaBBSXNwlk7hOK4XIiw00A,"Comfort Food, Bistros",3.9,"['4434 10th Avenue W', 'Vancouver, BC V6R 2H9', 'Canada']",49.2635099,-123.20713,$$,137,False,150.8742322244632
+Raisu,TQj4HSCmm5GnriKMiSpqpQ,"Japanese, Sushi Bars",4.2,"['2340 W 4th Avenue', 'Vancouver, BC V6K 1P1', 'Canada']",49.2679990419609,-123.158381134272,$$$,525,False,77.8602010060637
+Fable Diner,uonaIMF0GOLC8UzKR3IaQA,"Diners, American",3.9,"['151 E Broadway', 'Vancouver, BC V5T 1W1', 'Canada']",49.2630749,-123.1019822,$$,343,False,252.97555357295707
+Suika,umv8zQBbJ5GgRT0qVHIpCg,"Japanese, Tapas/Small Plates, Sushi Bars",4.2,"['1626 W Broadway', 'Vancouver, BC V6J 1X6', 'Canada']",49.26333,-123.1417,$$,566,False,139.00686238944274
+La Quercia,Mfdo3zuB2P0xFQ40DLPaEQ,"Italian, Wine Bars",4.1,"['3689 W 4th Avenue', 'Vancouver, BC V6R 1P2', 'Canada']",49.2687649,-123.1853601,$$$,213,False,382.6753135205526
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,396.1414811063175
+Salmon n' Bannock,drhJnjLFI8wsbvOMaVFDSA,Canadian (New),4.5,"['1128 W Broadway', 'Unit 7', 'Vancouver, BC V6H 1G5', 'Canada']",49.2631378,-123.1296705,$$,236,False,236.92583552602002
+Miku,4EV_ZcQmjAmP3pmO-_nb2A,"Japanese, Sushi Bars",4.4,"['200 Granville Street', 'Suite 70', 'Vancouver, BC V6C 1S4', 'Canada']",49.28691298612272,-123.11304877258942,$$$,2379,False,35.89487452936265
+Hachibei Japanese Restaurant,E1ygd4cHPPlD0TYKg7Berw,Japanese,3.9,"['778 16th Avenue W', 'Vancouver, BC V5Z 1S7', 'Canada']",49.256899,-123.1215336,$$,80,False,232.01195293348025
+Joon's Kitchen,4sJgeCWPtd9Hx1OcXXmX_w,"Korean, Japanese",4.0,"['3093 Oak Street', 'Vancouver, BC V6H 2K8', 'Canada']",49.25814006151812,-123.1271603431787,N/A,71,False,69.34889369026776
+Tom Sushi,o5YLdmUogknjtDzUBv5Smw,"Sushi Bars, Japanese",4.7,"['1175 Davie St', 'Vancouver, BC V6E 1N2', 'Canada']",49.2815608,-123.1327476,$$,285,False,219.69697368713054
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,640.5595730601583
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,696.1630797635031
+Teahouse in Stanley Park,kK4imiJdmPKJBgQXoQ_VTg,Seafood,4.1,"['7501 Stanley Park Drive', 'Vancouver, BC V6G 1Z4', 'Canada']",49.3012529987012,-123.157079257071,$$$,461,False,181.46851060732067
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,296.7557165682852
+Saku,XAH2HpuUUtu7CUO26pbs4w,"Japanese, Noodles, Seafood",4.3,"['548 W Broadway', 'Vancouver, BC V5Z 1E9', 'Canada']",49.2631006,-123.11667523250104,$$,265,False,147.2713510393724
+Maxine's Cafe & Bar,lQuQy5a4wk0WL7WpP2hwyQ,"Bars, Breakfast & Brunch, Cafes",4.3,"['1325 Burrard Street', 'Vancouver, BC V6Z 2B7', 'Canada']",49.27807,-123.13131,$$,118,False,60.3645801921501
+The Farmhouse,WZz3gI0V6hN9M_cpeyo9Jg,"Italian, Wine Bars",4.3,"['352 East 10th Avenue', 'Vancouver, BC V5T 1Z7', 'Canada']",49.26185879464837,-123.09710762514682,N/A,28,False,16.37091896645807
+Salmon n' Bannock,drhJnjLFI8wsbvOMaVFDSA,Canadian (New),4.5,"['1128 W Broadway', 'Unit 7', 'Vancouver, BC V6H 1G5', 'Canada']",49.2631378,-123.1296705,$$,236,False,278.5740079814738
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,796.212378667594
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,572.0392848621037
+Forage,t-soDjOlN6XkySHBdhRkKA,"Canadian (New), Breakfast & Brunch",4.1,"['1300 Robson Street', 'Vancouver, BC V6E 1C5', 'Canada']",49.28707,-123.12925,$$,736,False,146.99360039595916
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,365.0375169635776
+Burgoo Bistros,KDpEDnHqRXTeBhNTmvBFiQ,"Comfort Food, Bistros",3.9,"['3096 Main Street', 'Vancouver, BC V5T 3G5', 'Canada']",49.25765498958033,-123.100815,$$,515,False,303.66818982114813
+Landmark Hotpot House,EwnizZggD7z0lX5pny_kug,"Chinese, Hot Pot",3.9,"['4023 Cambie Street', 'Vancouver, BC V5Z 2X9', 'Canada']",49.2498660758194,-123.11556053834,$$$,126,False,86.76023382466451
+Afghan Horsemen Restaurant,1tJ25j22FXmkuQQW0F_Qfg,"Middle Eastern, Afghan, Kebab",3.9,"['1833 Anderson Street', 'Suite 202', 'Vancouver, BC V6H 4E5', 'Canada']",49.2694847203493,-123.138735294342,$$,264,False,250.92070268838626
+Delhi 6 Indian Bistro,usO5eH44mmub9p_pH95OkQ,Indian,4.4,"['1766 W 7th Avenue', 'Vancouver, BC V6J 4Z9', 'Canada']",49.2653386,-123.1449329,$$,146,False,1033.6694317216861
+Browns Crafthouse UBC,_AiT0bbQLTHXVSzsrbPg9A,Bars,4.4,"['6111 University Blvd', 'Vancouver, BC V6T 0C7', 'Canada']",49.2661235,-123.2483732,N/A,35,False,57.15446555850169
+Seasons In the Park,l2f2PU8Rtr5TPtzwaGQ_sA,Seafood,4.0,"['Queen Elizabeth Park', 'Cambie Street W 33rd Avenue', 'Vancouver, BC V5Y 2M5', 'Canada']",49.2416705486198,-123.112535476685,$$$,566,False,998.4610205388093
+Salade de Fruits Cafe,IKXFu9H6ngGOS2JRmfmjlw,French,4.2,"['1551 West 7th Avenue', 'Vancouver, BC V6J 1S1', 'Canada']",49.2655161,-123.1401237,$$,185,False,152.6266359170903
+Mercante,JXHMyTTBzl90VGDInFlAlQ,"Pizza, Coffee & Tea, Italian",3.3,"['6488 University Boulevard', 'Vancouver, BC V6T', 'Canada']",49.2633894,-123.2560419,$$,80,False,107.33242879717349
+Takenaka,rRb2CvNCNWyPSQdeVme9-Q,Japanese,4.3,"['1370 East Georgia Street', 'Vancouver, BC V5L 2A8', 'Canada']",49.2783093,-123.0755801,N/A,97,False,259.34392022473327
+Hello Nori ,RckRmOcX7OtMUDC40Cz3lg,"Japanese, Sushi Bars, Coffee & Tea",4.5,"['1165 Robson Street', 'Vancouver, BC V6E 1B5', 'Canada']",49.28559747478766,-123.1261163,$$,266,False,202.1098589985346
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,956.6591646105637
+Cardero's Restaurant & Marine Pub,fQgcJKblBBqx5Niqp8rs3g,"Seafood, Cajun/Creole, Canadian (New)",3.9,"['1583 Coal Harbour Quay', 'Vancouver, BC V6G 3E7', 'Canada']",49.2914561357511,-123.127575841549,$$$,715,False,154.03664581370003
+Miku,4EV_ZcQmjAmP3pmO-_nb2A,"Japanese, Sushi Bars",4.4,"['200 Granville Street', 'Suite 70', 'Vancouver, BC V6C 1S4', 'Canada']",49.28691298612272,-123.11304877258942,$$$,2379,False,204.5202350397437
+Salmon n' Bannock,drhJnjLFI8wsbvOMaVFDSA,Canadian (New),4.5,"['1128 W Broadway', 'Unit 7', 'Vancouver, BC V6H 1G5', 'Canada']",49.2631378,-123.1296705,$$,236,False,209.05930703776215
+La Taqueria Pinche Taco Shop,6iOAgzJ0DRZNSKA3FSrrOg,Mexican,4.2,"['2450 Yukon Street', 'Vancouver, BC V5Z 3V6', 'Canada']",49.263617,-123.112593,$$,697,False,303.9747378189474
+Vij's Restaurant,raZ-NDBs9S1j9fPONh4fWw,Indian,4.0,"['3106 Cambie Street', 'Vancouver, BC V5Z 2W2', 'Canada']",49.25754,-123.11479,$$$,437,False,424.5650672407545
+Pink Peppercorn Seafood House,52o82-XanIGhqQySWbiuPg,Seafood,4.3,"['1485 Kingsway', 'Vancouver, BC V5N 2R6', 'Canada']",49.2493583,-123.0739159,$$$,159,False,548.9324138782509
+Chewies Steam & Oyster Bar - Kits,M4jkJHewQXZvDV34Tuon8g,"Seafood, Cajun/Creole",3.6,"['2201 W 1st Avenue', 'Vancouver, BC V6K 1E9', 'Canada']",49.2709727,-123.1552829,$$,296,False,271.0274587735539
+Ancora Waterfront Dining and Patio,uuXiaNDeUySh9NSbSRuEYQ,"Seafood, Japanese, Peruvian",4.1,"['1600 Howe Street', 'Vancouver, BC V6Z 2L9', 'Canada']",49.273853456158875,-123.13257765112428,$$$$,240,False,191.82401007390376
+Cactus Club Cafe,jKO4Og6ucdX2-YCTKQVYjg,"Canadian (New), Cocktail Bars",4.2,"['1085 Canada Place', 'Vancouver, BC V6C 3E1', 'Canada']",49.28963138752227,-123.11817709999995,$$,936,False,280.09795184625716
+iDen & Quan Ju De Beijing Duck House,Zi8Ywk36Ws_4zjw2gjMMFA,Chinese,3.6,"['2808 Cambie Street', 'Vancouver, BC V5Z 2V5', 'Canada']",49.26021,-123.1148451,N/A,152,False,102.5557420689429
+Hitoe Sushi Japanese Restaurant,FmD4x9ClmSzSLKOTV7jfXw,"Japanese, Sushi Bars",4.0,"['3347 W 4th Avenue', 'Vancouver, BC V6R 1N6', 'Canada']",49.268648,-123.1789136,$$,181,False,81.96981382153979
+Blue Water Cafe,gt1BSfVFvzI-qHdJ3LUZug,Seafood,4.4,"['1095 Hamilton St', 'Vancouver, BC V6B 5T4', 'Canada']",49.2761945,-123.1209935,$$$$,1135,False,1109.3369592894433
+Tom Sushi,o5YLdmUogknjtDzUBv5Smw,"Sushi Bars, Japanese",4.7,"['1175 Davie St', 'Vancouver, BC V6E 1N2', 'Canada']",49.2815608,-123.1327476,$$,285,False,167.78500244439084
+Tropika On Cambie,KN9zCrgwHj_iWQGEf3Vzyw,"Malaysian, Singaporean, Thai",2.9,"['2975 Cambie Street', 'Vancouver, BC V5Z 2V7', 'Canada']",49.2589,-123.11538,$$,178,False,19.442241901902467
+Hawksworth Restaurant,70D_rxm388HaD2qMTB59xw,Canadian (New),4.1,"['801 W Georgia Street', 'Vancouver, BC V6C 1P7', 'Canada']",49.2833971,-123.1191704,$$$,694,False,118.97905701210559
+Harbour Oyster + Bar,ulsLlVcGvuLOSN0n3bR2zg,"Cocktail Bars, Seafood, Fish & Chips",4.2,"['1408 Commercial Drive', 'Vancouver, BC V5L 3X9', 'Canada']",49.2718946138822,-123.069181591272,$$,84,False,60.01599411373623
+Fable Diner,uonaIMF0GOLC8UzKR3IaQA,"Diners, American",3.9,"['151 E Broadway', 'Vancouver, BC V5T 1W1', 'Canada']",49.2630749,-123.1019822,$$,343,False,279.4085594345542
+Sushi Jin,iMtUsHOqitE6Aau59K_XRg,"Japanese, Sushi Bars",4.6,"['750 Nelson Street', 'Vancouver, BC V6Z 1A8', 'Canada']",49.2795794102629,-123.123817518353,$$$,149,False,136.66188055062526
+Hawksworth Restaurant,70D_rxm388HaD2qMTB59xw,Canadian (New),4.1,"['801 W Georgia Street', 'Vancouver, BC V6C 1P7', 'Canada']",49.2833971,-123.1191704,$$$,694,False,99.91673441537314
+Chambar,_4R46MNkwx9MeOyt0YfNxA,Belgian,4.2,"['568 Beatty Street', 'Vancouver, BC V6B 2L3', 'Canada']",49.2801460007961,-123.109925328073,$$,1601,False,45.600507221473194
+Hawksworth Restaurant,70D_rxm388HaD2qMTB59xw,Canadian (New),4.1,"['801 W Georgia Street', 'Vancouver, BC V6C 1P7', 'Canada']",49.2833971,-123.1191704,$$$,694,False,220.8492174428889
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,46.03192189135224
+Fable Diner,uonaIMF0GOLC8UzKR3IaQA,"Diners, American",3.9,"['151 E Broadway', 'Vancouver, BC V5T 1W1', 'Canada']",49.2630749,-123.1019822,$$,343,False,177.75781219458432
+Medina Cafe,VPqWLp9kMiZEbctCebIZUA,"Breakfast & Brunch, Middle Eastern, Wine Bars",4.2,"['780 Richards Street', 'Vancouver, BC V6B 3A4', 'Canada']",49.2804429972571,-123.117036269849,$$,2701,False,96.81249412267523
+Salade de Fruits Cafe,IKXFu9H6ngGOS2JRmfmjlw,French,4.2,"['1551 West 7th Avenue', 'Vancouver, BC V6J 1S1', 'Canada']",49.2655161,-123.1401237,$$,185,False,144.84824280829815
+Tom Sushi,o5YLdmUogknjtDzUBv5Smw,"Sushi Bars, Japanese",4.7,"['1175 Davie St', 'Vancouver, BC V6E 1N2', 'Canada']",49.2815608,-123.1327476,$$,285,False,242.88486589578116
+Bodega On Main,a_uX_ffrbXsWgUpD5pjW7g,"Spanish, Tapas/Small Plates, Tapas Bars",3.9,"['1014 Main Street', 'Vancouver, BC V6A 2W1', 'Canada']",49.27548853708847,-123.09968391901442,$$,229,False,216.33044285730963
+Saku,iid0VenH7rIp3AWuyQAAHw,Japanese,4.4,"['1588 Robson Street', 'Vancouver, BC V6G 2G5', 'Canada']",49.289223,-123.132266,$$,453,False,113.55051995252961
+The Burrow,UbwADEKly9ZiNzviUJbc0w,"Mexican, Vegetarian, Breakfast & Brunch",3.9,"['2781 Commercial Drive', 'Vancouver, BC V5N 4C5', 'Canada']",49.2597591,-123.0700099,$$,516,False,181.29099142781513
+La Taqueria Pinche Taco Shop,6iOAgzJ0DRZNSKA3FSrrOg,Mexican,4.2,"['2450 Yukon Street', 'Vancouver, BC V5Z 3V6', 'Canada']",49.263617,-123.112593,$$,697,False,170.59072303950595
+Johnnie Fox's Irish Pub,O9KCg8IfPtbNSlk7M0OdSQ,"Irish, Pubs",3.9,"['1601 Main Street', 'Vancouver, BC V6A 2W5', 'Canada']",49.27142,-123.10129,$$,127,False,198.55684749187145
+Dundas Eat + Drink,RjaMcWoyG_CFh-M61fahxA,"Vietnamese, Asian Fusion, Beer Bar",4.2,"['2077 Dundas Street', 'Vancouver, BC V5L 1J5', 'Canada']",49.285084,-123.062273,$$,75,False,80.43645549970856
+Nemesis Coffee,pwUPWowcRQPfMNJcBKQ66w,"Coffee & Tea, Breakfast & Brunch, Desserts",4.2,"['555 Great Northern Way', 'Vancouver, BC V5T 1E1', 'Canada']",49.26704079691957,-123.09265477054645,$$,101,False,137.8876738089841
+Nana's Green Tea,yhlLjEZUhzPES8vrtcPGrA,"Desserts, Japanese, Cafes",4.1,"['159 West 4th Avenue', 'Vancouver, BC V6M 1Z6', 'Canada']",49.267587,-123.1086543,$$,192,False,134.54855049911814
+Bufala,q3reTj4jxslkpffupk5R0w,"Pizza, Italian",3.6,"['5395 West Blvd', 'Vancouver, BC V6M 3W4', 'Canada']",49.2374125128053,-123.155639817237,$$,158,False,91.22680545173925
+Raisu,TQj4HSCmm5GnriKMiSpqpQ,"Japanese, Sushi Bars",4.2,"['2340 W 4th Avenue', 'Vancouver, BC V6K 1P1', 'Canada']",49.2679990419609,-123.158381134272,$$$,525,False,700.9837356789407
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,310.48083122357536
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,920.9171097756042
+Burgoo Bistros,KDpEDnHqRXTeBhNTmvBFiQ,"Comfort Food, Bistros",3.9,"['3096 Main Street', 'Vancouver, BC V5T 3G5', 'Canada']",49.25765498958033,-123.100815,$$,515,False,85.63742529621294
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,131.89632209785137
+La Quercia,Mfdo3zuB2P0xFQ40DLPaEQ,"Italian, Wine Bars",4.1,"['3689 W 4th Avenue', 'Vancouver, BC V6R 1P2', 'Canada']",49.2687649,-123.1853601,$$$,213,False,413.8455701476
+Published On Main,5-adl2zPRMgammVOoz5WEg,"Tapas/Small Plates, Wine Bars, Cocktail Bars",4.3,"['3593 Main Street', 'Vancouver, BC V5V 3N4', 'Canada']",49.25283186017385,-123.10116032897228,N/A,152,False,18.235721467361756
+Blue Water Cafe,gt1BSfVFvzI-qHdJ3LUZug,Seafood,4.4,"['1095 Hamilton St', 'Vancouver, BC V6B 5T4', 'Canada']",49.2761945,-123.1209935,$$$$,1135,False,172.82681589346348
+Hitoe Sushi Japanese Restaurant,FmD4x9ClmSzSLKOTV7jfXw,"Japanese, Sushi Bars",4.0,"['3347 W 4th Avenue', 'Vancouver, BC V6R 1N6', 'Canada']",49.268648,-123.1789136,$$,181,False,329.65572513107253
+La Taqueria Pinche Taco Shop,6iOAgzJ0DRZNSKA3FSrrOg,Mexican,4.2,"['2450 Yukon Street', 'Vancouver, BC V5Z 3V6', 'Canada']",49.263617,-123.112593,$$,697,False,264.21436938575255
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,370.36901181634096
+The Stable House Bistro,e-rcL7OGCA27OkZ_gnzEeA,"French, Wine Bars, Modern European",4.0,"['1520 W 13th Avenue', 'Vancouver, BC V6J 2G4', 'Canada']",49.2597322720703,-123.140207185371,$$,105,False,111.20619856572945
+Dundas Eat + Drink,RjaMcWoyG_CFh-M61fahxA,"Vietnamese, Asian Fusion, Beer Bar",4.2,"['2077 Dundas Street', 'Vancouver, BC V5L 1J5', 'Canada']",49.285084,-123.062273,$$,75,False,294.1851134737269
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,910.4552404387794
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,90.36018595018022
+Forage,t-soDjOlN6XkySHBdhRkKA,"Canadian (New), Breakfast & Brunch",4.1,"['1300 Robson Street', 'Vancouver, BC V6E 1C5', 'Canada']",49.28707,-123.12925,$$,736,False,185.82094814933623
+Medina Cafe,VPqWLp9kMiZEbctCebIZUA,"Breakfast & Brunch, Middle Eastern, Wine Bars",4.2,"['780 Richards Street', 'Vancouver, BC V6B 3A4', 'Canada']",49.2804429972571,-123.117036269849,$$,2701,False,50.48428070653216
+The Mackenzie Room,rpJpZOvTPbVmBh2goK1iOA,Canadian (New),4.5,"['415 Powell Street', 'Vancouver, BC V6A 1G7', 'Canada']",49.2832349,-123.0948578,$$$$,205,False,1181.1518290094334
+La Taqueria Pinche Taco Shop,6iOAgzJ0DRZNSKA3FSrrOg,Mexican,4.2,"['2450 Yukon Street', 'Vancouver, BC V5Z 3V6', 'Canada']",49.263617,-123.112593,$$,697,False,44.721434310149576
+AnnaLena,WAKwis2gWtNjRqFGkgwORw,"Canadian (New), Diners, Bars",4.5,"['1809 W 1st Avenue', 'Vancouver, BC V6J 5B8', 'Canada']",49.2708261,-123.1467714,$$$$,369,False,44.820964233353706
+Fable Diner,uonaIMF0GOLC8UzKR3IaQA,"Diners, American",3.9,"['151 E Broadway', 'Vancouver, BC V5T 1W1', 'Canada']",49.2630749,-123.1019822,$$,343,False,106.15131556385258
+Medina Cafe,VPqWLp9kMiZEbctCebIZUA,"Breakfast & Brunch, Middle Eastern, Wine Bars",4.2,"['780 Richards Street', 'Vancouver, BC V6B 3A4', 'Canada']",49.2804429972571,-123.117036269849,$$,2701,False,133.64116004988048
+Chewies Steam & Oyster Bar - Kits,M4jkJHewQXZvDV34Tuon8g,"Seafood, Cajun/Creole",3.6,"['2201 W 1st Avenue', 'Vancouver, BC V6K 1E9', 'Canada']",49.2709727,-123.1552829,$$,296,False,86.01650675456527
+CRAFT Beer Market,P8ivaSJ-_FmC01Z_2Npuig,"Beer Bar, Burgers, Canadian (New)",3.4,"['85 W 1st Avenue', 'Salt Building', 'Vancouver, BC V5Y 3K8', 'Canada']",49.2702147,-123.1060713,$$,536,False,215.2883240152688
+Suika,umv8zQBbJ5GgRT0qVHIpCg,"Japanese, Tapas/Small Plates, Sushi Bars",4.2,"['1626 W Broadway', 'Vancouver, BC V6J 1X6', 'Canada']",49.26333,-123.1417,$$,566,False,220.30117450450302
+Pink Peppercorn Seafood House,52o82-XanIGhqQySWbiuPg,Seafood,4.3,"['1485 Kingsway', 'Vancouver, BC V5N 2R6', 'Canada']",49.2493583,-123.0739159,$$$,159,False,800.6685841769568
+Zakkushi Dining On Main,8vQHbT-TpYTenOoCNF9Nfw,"Japanese, Tapas/Small Plates",3.8,"['4075 Main Street', 'Vancouver, BC V5V 3P5', 'Canada']",49.249124,-123.101552,$$,239,False,260.22307987599515
+Itosugi Kappo Cuisine,0GcsMb8Td3DkrbfkpXPwAQ,"Japanese, Sushi Bars",4.5,"['3648 W Broadway', 'Vancouver, BC V6R 2B7', 'Canada']",49.264094,-123.184705,N/A,31,False,91.86799343582935
+PiDGiN,H4h_nwZW7f2Yj9ONdzGxHQ,"Japanese, Korean, French",4.0,"['350 Carrall Street', 'Vancouver, BC V6B 2J3', 'Canada']",49.2819071402452,-123.104188653967,$$$,343,False,83.6518419329383
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,396.8161561557674
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,920.7030241391546
+Linh Cafe,agMh6QkfpjAxmu0O5fnNPQ,"Vietnamese, French",3.9,"['1428 Granville Street', 'Vancouver, BC V6Z 1N2', 'Canada']",49.2746716,-123.12989802,$$,337,False,231.96853362567475
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,483.8090103956179
+Zarak By Afghan Kitchen,piwi7Au_17aUKuC2S97Nkg,"Afghan, Cocktail Bars, Breakfast & Brunch",4.5,"['2102 Main Street', 'Vancouver, BC V5T 0K1', 'Canada']",49.266224,-123.1006089,N/A,120,False,284.8314906997126
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,940.977191587189
+Fassil Ethiopian Restaurant,9KgB4mKZnW7GRU3zjPcxvw,Ethiopian,4.3,"['736 Broadway E', 'Vancouver, BC V5T 1X9', 'Canada']",49.262316686122,-123.08833077466,$$,154,False,368.01397298660146
+Jamjar Canteen,WXUjrwRXK3YPQSVujEO-rQ,Lebanese,4.1,"['6035 University Boulevard', 'Vancouver, BC V6T 0C5', 'Canada']",49.2662351,-123.2475496,$$,46,False,246.12379819810602
+Banana Leaf,ULnAJdHecyxXcKnDgi6_iA,"Malaysian, Singaporean",3.6,"['3005 W Broadway', 'Vancouver, BC V6K 2G9', 'Canada']",49.26439,-123.1723,$$,179,False,118.93876754729216
+Chambar,_4R46MNkwx9MeOyt0YfNxA,Belgian,4.2,"['568 Beatty Street', 'Vancouver, BC V6B 2L3', 'Canada']",49.2801460007961,-123.109925328073,$$,1601,False,390.2364719404616
+Ancora Waterfront Dining and Patio,uuXiaNDeUySh9NSbSRuEYQ,"Seafood, Japanese, Peruvian",4.1,"['1600 Howe Street', 'Vancouver, BC V6Z 2L9', 'Canada']",49.273853456158875,-123.13257765112428,$$$$,240,False,194.3304825321368
+Zakkushi Dining On Main,8vQHbT-TpYTenOoCNF9Nfw,"Japanese, Tapas/Small Plates",3.8,"['4075 Main Street', 'Vancouver, BC V5V 3P5', 'Canada']",49.249124,-123.101552,$$,239,False,210.70537944556432
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,1097.1054151539192
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,755.6045035870361
+La Quercia,Mfdo3zuB2P0xFQ40DLPaEQ,"Italian, Wine Bars",4.1,"['3689 W 4th Avenue', 'Vancouver, BC V6R 1P2', 'Canada']",49.2687649,-123.1853601,$$$,213,False,496.1797210180151
+Little Bird Dim Sum,CaL6mPCqNElNqJTX_mEm1w,"Dim Sum, Beer Bar, Tapas/Small Plates",4.0,"['2958 W 4th Avenue', 'Vancouver, BC V6K 1R4', 'Canada']",49.26814,-123.17168,$$,95,False,312.0191366073367
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,424.56355847780844
+Beach Ave Bar And Grill,SGJLq_sx67lPyXdFEZGXng,"Seafood, Burgers, Cocktail Bars",4.5,"['1 -1012 Beach Avenue', 'Vancouver, BC V6E 1T7', 'Canada']",49.27553568577844,-123.13565084059196,$$,33,False,312.43326138645
+Joe Fortes Seafood & Chop House,2cXOMeyBCx4JFgs5-CJQdQ,"Seafood, Steakhouses",4.0,"['777 Thurlow Street', 'Vancouver, BC V6E 3V5', 'Canada']",49.284968691771624,-123.12455980835064,$$$,1353,False,115.1612839818823
+Miku,4EV_ZcQmjAmP3pmO-_nb2A,"Japanese, Sushi Bars",4.4,"['200 Granville Street', 'Suite 70', 'Vancouver, BC V6C 1S4', 'Canada']",49.28691298612272,-123.11304877258942,$$$,2379,False,143.0167113498603
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,984.1055820219522
+Mr. Red Cafe,EvVCF3mompCg3PPkpqip2A,Vietnamese,3.8,"['2680 W Broadway', 'Vancouver, BC V6K 2G3', 'Canada']",49.2640755304294,-123.165913715756,$$,125,False,90.64119474355886
+Lunch Lady,9Waotz-_G9woVPWZTmZcwA,Vietnamese,4.1,"['1046 Commercial Drive', 'Vancouver, BC V5L 3W9', 'Canada']",49.27497,-123.06915,$$,261,False,10.428046821143973
+Dynasty Seafood Restaurant,qO03dJ4hU0sb5I1eBSEVkA,"Dim Sum, Seafood, Cantonese",3.6,"['777 W Broadway', 'Ste 108', 'Vancouver, BC V5Z 4J7', 'Canada']",49.2635999,-123.12138,$$,347,False,245.23254746936988
+Bodega On Main,a_uX_ffrbXsWgUpD5pjW7g,"Spanish, Tapas/Small Plates, Tapas Bars",3.9,"['1014 Main Street', 'Vancouver, BC V6A 2W1', 'Canada']",49.27548853708847,-123.09968391901442,$$,229,False,272.25474605701885
+Pelican Seafood Restaurant,lSSffQdr913ki1x48jNFbA,"Seafood, Dim Sum",3.1,"['1895 E Hastings St', 'Vancouver, BC V5L 1T3', 'Canada']",49.28165092582909,-123.0661289,$$,81,False,162.85012424581492
+Delhi 6 Indian Bistro,usO5eH44mmub9p_pH95OkQ,Indian,4.4,"['1766 W 7th Avenue', 'Vancouver, BC V6J 4Z9', 'Canada']",49.2653386,-123.1449329,$$,146,False,907.6808919418729
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,683.6236259301785
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,779.6637898853355
+Seasons In the Park,l2f2PU8Rtr5TPtzwaGQ_sA,Seafood,4.0,"['Queen Elizabeth Park', 'Cambie Street W 33rd Avenue', 'Vancouver, BC V5Y 2M5', 'Canada']",49.2416705486198,-123.112535476685,$$$,566,False,463.9860554294696
+The Burrow,UbwADEKly9ZiNzviUJbc0w,"Mexican, Vegetarian, Breakfast & Brunch",3.9,"['2781 Commercial Drive', 'Vancouver, BC V5N 4C5', 'Canada']",49.2597591,-123.0700099,$$,516,False,332.6189569679171
+Pepino's,GepW_CkeEoPbg-0fLb5FGw,"Italian, Salad, Pizza",4.1,"['631 Commercial Drive', 'Vancouver, BC V5L 3W3', 'Canada']",49.2787695,-123.0705849,$$$,162,False,160.25070160253708
+Published On Main,5-adl2zPRMgammVOoz5WEg,"Tapas/Small Plates, Wine Bars, Cocktail Bars",4.3,"['3593 Main Street', 'Vancouver, BC V5V 3N4', 'Canada']",49.25283186017385,-123.10116032897228,N/A,152,False,911.2586418166821
+Kokoro Tokyo Mazesoba,0oGCF9xsvKe1vS6Sm3o3VQ,Japanese,4.1,"['551 Seymour Street', 'Vancouver, BC V6B 3H6', 'Canada']",49.2833927,-123.115078,$$,490,False,150.80758875376486
+The Mackenzie Room,rpJpZOvTPbVmBh2goK1iOA,Canadian (New),4.5,"['415 Powell Street', 'Vancouver, BC V6A 1G7', 'Canada']",49.2832349,-123.0948578,$$$$,205,False,786.9263267768546
+Bai Bua Thai Cuisine,nq5Ms7rb6fVAnq6zm6tIAQ,Thai,4.1,"['2443 E Hastings Street', 'Vancouver, BC V5C 0C2', 'Canada']",49.28142,-123.05564,$$,148,False,121.3841525777544
+Lunch Lady,9Waotz-_G9woVPWZTmZcwA,Vietnamese,4.1,"['1046 Commercial Drive', 'Vancouver, BC V5L 3W9', 'Canada']",49.27497,-123.06915,$$,261,False,211.62908133709647
+Jamjar Canteen,WXUjrwRXK3YPQSVujEO-rQ,Lebanese,4.1,"['6035 University Boulevard', 'Vancouver, BC V6T 0C5', 'Canada']",49.2662351,-123.2475496,$$,46,False,112.59043789713704
+Lupo,wHTXCWVsx2PYPT21JV-HeQ,Italian,4.3,"['869 Hamilton Street', 'Vancouver, BC V6B 2R7', 'Canada']",49.278222058049096,-123.11735347768747,$$$,467,False,284.19010396368174
+Burgoo Bistro,oaBBSXNwlk7hOK4XIiw00A,"Comfort Food, Bistros",3.9,"['4434 10th Avenue W', 'Vancouver, BC V6R 2H9', 'Canada']",49.2635099,-123.20713,$$,137,False,259.8758245062792
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,542.3705928945633
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,235.01206771373043
+Octopus Garden,6k1omPa3O3Kl7lSjXfCxvA,"Japanese, Sushi Bars",3.9,"['1995 Cornwall Avenue', 'Vancouver, BC V6J 1C9', 'Canada']",49.2726349,-123.149816,$$$,158,False,150.2153504012186
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,515.8303085802296
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,700.219245138078
+The Farmhouse,WZz3gI0V6hN9M_cpeyo9Jg,"Italian, Wine Bars",4.3,"['352 East 10th Avenue', 'Vancouver, BC V5T 1Z7', 'Canada']",49.26185879464837,-123.09710762514682,N/A,28,False,88.55975738746909
+Nightingale,hDQmMvYXpLVXwhXSu9HsOQ,"Live/Raw Food, Canadian (New), Pizza",4.1,"['1017 West Hastings Street', 'Vancouver, BC V6E 0C4', 'Canada']",49.2874110331456,-123.117770967577,$$$,546,False,66.48328938767385
+The Flying Pig - Village,yB24S-bsaJqaP3pQFpKpBw,Canadian (New),3.3,"['127 W 2nd Avenue', 'Vancouver, BC V5T 1B4', 'Canada']",49.2694549333199,-123.10744805094537,$$,218,False,167.83630656294926
+Tableau Bar Bistro,iafE2JEpZ_ipd89tlk1MTA,"Bars, Bistros",4.0,"['1181 Melville Street', 'Vancouver, BC V6E 0A3', 'Canada']",49.287494,-123.1235689,$$,306,False,42.302943384581575
+Afghan Horsemen Restaurant,1tJ25j22FXmkuQQW0F_Qfg,"Middle Eastern, Afghan, Kebab",3.9,"['1833 Anderson Street', 'Suite 202', 'Vancouver, BC V6H 4E5', 'Canada']",49.2694847203493,-123.138735294342,$$,264,False,67.81908126187894
+Zarak By Afghan Kitchen,piwi7Au_17aUKuC2S97Nkg,"Afghan, Cocktail Bars, Breakfast & Brunch",4.5,"['2102 Main Street', 'Vancouver, BC V5T 0K1', 'Canada']",49.266224,-123.1006089,N/A,120,False,27.43085688478026
+The Mackenzie Room,rpJpZOvTPbVmBh2goK1iOA,Canadian (New),4.5,"['415 Powell Street', 'Vancouver, BC V6A 1G7', 'Canada']",49.2832349,-123.0948578,$$$$,205,False,85.55028637647068
+Osteria Savio Volpe,gNCSbTm3unsdztncbgSv5A,Italian,4.2,"['615 Kingsway', 'Vancouver, BC V5T 3K5', 'Canada']",49.2574913,-123.0909344,$$$,463,False,200.00342987997237
+Yolks,CX-NLp9SM3V2ooO9RIOhYg,Breakfast & Brunch,3.8,"['1598 E Hastings Street', 'Vancouver, BC V5L 1S5', 'Canada']",49.281081,-123.072931,$$,458,False,299.9824838983379
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,334.3421058393955
+Lupo,wHTXCWVsx2PYPT21JV-HeQ,Italian,4.3,"['869 Hamilton Street', 'Vancouver, BC V6B 2R7', 'Canada']",49.278222058049096,-123.11735347768747,$$$,467,False,312.8312964413937
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,973.7134315017838
+Great Dane Coffee,A1H-vlWpuuxDP1cjCnB-xg,Cafes,4.1,"['6011 Walter Gage Road', 'Vancouver, BC V6T 0B4', 'Canada']",49.2700488028238,-123.250755445288,$,66,False,176.9069271037395
+Guu with Garlic,GmEeIcJ9vR04kxzYgPMEgg,"Japanese, Tapas/Small Plates",4.3,"['1698 Robson Street', 'Vancouver, BC V6G 1C7', 'Canada']",49.290249,-123.1338142,$$,1081,False,1053.9372451453328
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,1034.7544494571189
+St Lawrence Restaurant,3r9FUpajfS7Or9CVzUmFlg,French,4.4,"['269 Powell Street', 'Vancouver, BC V6A 1G3', 'Canada']",49.2832584031253,-123.097993419888,$$$,167,False,171.61305207043912
+Maxine's Cafe & Bar,lQuQy5a4wk0WL7WpP2hwyQ,"Bars, Breakfast & Brunch, Cafes",4.3,"['1325 Burrard Street', 'Vancouver, BC V6Z 2B7', 'Canada']",49.27807,-123.13131,$$,118,False,132.1493810113437
+Rajio Japanese Public House,2Tp-PQvILBZLKVDzvMIlvQ,"Japanese, Tapas/Small Plates",4.0,"['3763 W 10th Avenue', 'Vancouver, BC V6R 2G5', 'Canada']",49.2636549,-123.1870301,$$,133,False,206.5709999312387
+Jamjar Canteen,WXUjrwRXK3YPQSVujEO-rQ,Lebanese,4.1,"['6035 University Boulevard', 'Vancouver, BC V6T 0C5', 'Canada']",49.2662351,-123.2475496,$$,46,False,507.1335821362356
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,60.45024482945298
+Les Faux Bourgeois,w3HSOOqJednBOYbO3fajvQ,"French, Cafes",3.9,"['663 E 15th Avenue', 'Vancouver, BC V5T 2R6', 'Canada']",49.2572813531481,-123.089767330802,$$,485,False,471.1018468431734
+Anh and Chi,l184Y1d3oAa5_Al4YIaRjQ,"Vietnamese, Cocktail Bars",3.9,"['3388 Main Street', 'Vancouver, BC V5V 3M7', 'Canada']",49.2550314422938,-123.100882202153,$$$,717,False,362.91886187823127
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,589.4140899388755
+Mahony’s Tavern,g1WcsMOzDGOmDvA-y0xMvQ,Irish Pub,2.7,"['601 Stamps Landing', 'Unit 36', 'Vancouver, BC V5Z 3Z1', 'Canada']",49.268991869566904,-123.11856069065676,$$,169,False,31.997344338451136
+OEB Breakfast Co. - Yaletown,QmkGDL-8zexdKV3Xcn8ZYg,Breakfast & Brunch,4.3,"['1137 Marinaside Crescent', 'Vancouver, BC V6Z 2Y3', 'Canada']",49.27348,-123.119278,$$,912,False,90.62803095163352
+Takenaka,rRb2CvNCNWyPSQdeVme9-Q,Japanese,4.3,"['1370 East Georgia Street', 'Vancouver, BC V5L 2A8', 'Canada']",49.2783093,-123.0755801,N/A,97,False,157.0850348702816
+Tom Sushi,o5YLdmUogknjtDzUBv5Smw,"Sushi Bars, Japanese",4.7,"['1175 Davie St', 'Vancouver, BC V6E 1N2', 'Canada']",49.2815608,-123.1327476,$$,285,False,52.87788455339711
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,252.95798340410954
+Seasons In the Park,l2f2PU8Rtr5TPtzwaGQ_sA,Seafood,4.0,"['Queen Elizabeth Park', 'Cambie Street W 33rd Avenue', 'Vancouver, BC V5Y 2M5', 'Canada']",49.2416705486198,-123.112535476685,$$$,566,False,720.1321934929613
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,936.4461978139183
+Forage,t-soDjOlN6XkySHBdhRkKA,"Canadian (New), Breakfast & Brunch",4.1,"['1300 Robson Street', 'Vancouver, BC V6E 1C5', 'Canada']",49.28707,-123.12925,$$,736,False,21.84509940238624
+Jamjar Canteen,WXUjrwRXK3YPQSVujEO-rQ,Lebanese,4.1,"['6035 University Boulevard', 'Vancouver, BC V6T 0C5', 'Canada']",49.2662351,-123.2475496,$$,46,False,392.4999154280656
+Afghan Horsemen Restaurant,1tJ25j22FXmkuQQW0F_Qfg,"Middle Eastern, Afghan, Kebab",3.9,"['1833 Anderson Street', 'Suite 202', 'Vancouver, BC V6H 4E5', 'Canada']",49.2694847203493,-123.138735294342,$$,264,False,283.6992982573071
+Zarak By Afghan Kitchen,piwi7Au_17aUKuC2S97Nkg,"Afghan, Cocktail Bars, Breakfast & Brunch",4.5,"['2102 Main Street', 'Vancouver, BC V5T 0K1', 'Canada']",49.266224,-123.1006089,N/A,120,False,381.9058726544724
+Score on Davie,MimKL6DZXjW6pAB2USBADg,"Sports Bars, Breakfast & Brunch, American",4.3,"['1262 Davie Street', 'Vancouver, BC V6J 5L1', 'Canada']",49.2823221457395,-123.134614739512,$$,363,False,193.13347658573846
+Absinthe Bistro,Laiv2EnIwZFMF9Jy-R0PAA,"French, Bistros, Desserts",4.6,"['952 Commercial Drive', 'Vancouver, BC V5L 3W7', 'Canada']",49.27607,-123.0692457,$$$,147,False,589.2286965898359
+Fable Kitchen,p5thThuUITUjAy8gS3sPMw,Canadian (New),4.3,"['1944 W 4th Avenue', 'Vancouver, BC V6J 1M5', 'Canada']",49.2679331,-123.149019,$$,791,False,558.6777893682695
+Browns Crafthouse UBC,_AiT0bbQLTHXVSzsrbPg9A,Bars,4.4,"['6111 University Blvd', 'Vancouver, BC V6T 0C7', 'Canada']",49.2661235,-123.2483732,N/A,35,False,676.8298609501462
+Thierry,KXCXaF5qimmtKKqnPc_LQA,"Patisserie/Cake Shop, Cafes, Chocolatiers & Shops",4.0,"['1059 Alberni Street', 'Vancouver, BC V6E 1A1', 'Canada']",49.2848818,-123.1228949,$$,999,False,166.29806237307122
+Landmark Hotpot House,EwnizZggD7z0lX5pny_kug,"Chinese, Hot Pot",3.9,"['4023 Cambie Street', 'Vancouver, BC V5Z 2X9', 'Canada']",49.2498660758194,-123.11556053834,$$$,126,False,165.987020469499
+Fassil Ethiopian Restaurant,9KgB4mKZnW7GRU3zjPcxvw,Ethiopian,4.3,"['736 Broadway E', 'Vancouver, BC V5T 1X9', 'Canada']",49.262316686122,-123.08833077466,$$,154,False,498.72248277667114
+Guu with Garlic,GmEeIcJ9vR04kxzYgPMEgg,"Japanese, Tapas/Small Plates",4.3,"['1698 Robson Street', 'Vancouver, BC V6G 1C7', 'Canada']",49.290249,-123.1338142,$$,1081,False,1324.6911151062363
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,513.519220286604
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,222.3726566640338
+The Flying Pig,NdEPf2Ls5Ql3_nkwjqKvXA,"Canadian (New), Seafood",4.0,"['1168 Hamilton Street', 'Unit 104', 'Vancouver, BC V6B 2S2', 'Canada']",49.27501,-123.122,$$,1369,False,184.89223980189809
+Pepino's,GepW_CkeEoPbg-0fLb5FGw,"Italian, Salad, Pizza",4.1,"['631 Commercial Drive', 'Vancouver, BC V5L 3W3', 'Canada']",49.2787695,-123.0705849,$$$,162,False,167.22991102697338
+Viet House,RDm50mfPdFJ1Ob2i0fMbcg,Vietnamese,3.8,"['3420 Cambie Street', 'Vancouver, BC V5Z 2W8', 'Canada']",49.2546156379752,-123.114992380142,$$,78,False,27.071256887541214
+Kishimoto Japanese Kitchen,I0r8kMimYW2BY6lINcZRFA,"Japanese, Sushi Bars",4.4,"['2054 Commercial Drive', 'Vancouver, BC V5N 4A9', 'Canada']",49.2665099,-123.06935,$$$,538,False,212.0874523065536
+Chef Hung Taiwanese Beef Noodle,FPP0VvrPrV8RrF6Yye31ig,"Taiwanese, Chinese, Noodles",2.6,"['3313 Shrum Lane', 'Unit 102', 'Vancouver, BC V6S 0C8', 'Canada']",49.2545285,-123.2360941,$$,74,False,29.20315704411044
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,300.70355000912576
+Bao Bei Chinese Brasserie,K1943yeGQELTUeiH6bDa2g,Chinese,3.9,"['163 Keefer Street', 'Vancouver, BC V6A 1X3', 'Canada']",49.2796095312486,-123.100574596039,$$$,440,False,95.25135985212978
+Cactus Club Cafe,jKO4Og6ucdX2-YCTKQVYjg,"Canadian (New), Cocktail Bars",4.2,"['1085 Canada Place', 'Vancouver, BC V6C 3E1', 'Canada']",49.28963138752227,-123.11817709999995,$$,936,False,105.56716833055134
+Sopra Sotto,cA_W0XQcTsYZUwOXlGj48A,"Pizza, Italian",4.0,"['1510 Commercial Drive', 'Vancouver, BC V5L 2Y7', 'Canada']",49.2711051,-123.0694651,$$,153,False,306.7203012522214
+Cardero's Restaurant & Marine Pub,fQgcJKblBBqx5Niqp8rs3g,"Seafood, Cajun/Creole, Canadian (New)",3.9,"['1583 Coal Harbour Quay', 'Vancouver, BC V6G 3E7', 'Canada']",49.2914561357511,-123.127575841549,$$$,715,False,115.80612502746388
+Kingyo,crM1idgY_glhtxXT5kERNg,"Japanese, Tapas/Small Plates",4.4,"['871 Denman Street', 'Vancouver, BC V6G 2L9', 'Canada']",49.29073911099211,-123.13705023185994,$$,1204,False,210.02151289846424
+Fassil Ethiopian Restaurant,9KgB4mKZnW7GRU3zjPcxvw,Ethiopian,4.3,"['736 Broadway E', 'Vancouver, BC V5T 1X9', 'Canada']",49.262316686122,-123.08833077466,$$,154,False,124.02232637861925
+Little Bird Dim Sum,CaL6mPCqNElNqJTX_mEm1w,"Dim Sum, Beer Bar, Tapas/Small Plates",4.0,"['2958 W 4th Avenue', 'Vancouver, BC V6K 1R4', 'Canada']",49.26814,-123.17168,$$,95,False,225.40011648837407
+Black Frog Eatery,MWerlIaV9pIcFpWsrtC-cg,"Pubs, American",3.8,"['108 Cambie Street', 'Vancouver, BC V6B 2M8', 'Canada']",49.284598,-123.108687,$$,226,False,1.9733124149095305
+Gyu-Kaku Japanese BBQ,sGqCaAqgYbUWK8C4sjFBTw,"Japanese, Barbeque, Asian Fusion",4.0,"['G3-888 Nelson Street', 'Vancouver, BC V6Z 2H1', 'Canada']",49.28031,-123.12467,$$,410,False,163.5893677482854
+Miku,4EV_ZcQmjAmP3pmO-_nb2A,"Japanese, Sushi Bars",4.4,"['200 Granville Street', 'Suite 70', 'Vancouver, BC V6C 1S4', 'Canada']",49.28691298612272,-123.11304877258942,$$$,2379,False,277.67183620670215
+Dynasty Seafood Restaurant,qO03dJ4hU0sb5I1eBSEVkA,"Dim Sum, Seafood, Cantonese",3.6,"['777 W Broadway', 'Ste 108', 'Vancouver, BC V5Z 4J7', 'Canada']",49.2635999,-123.12138,$$,347,False,216.80479313167262
+Phnom Penh,yeNenSjz_HCqngGFU5d8NQ,"Cambodian, Vietnamese",4.2,"['244 E Georgia Street', 'Vancouver, BC V6A 1Z7', 'Canada']",49.278431,-123.098205,$$,1775,False,195.76641575073276
+Blue Water Cafe,gt1BSfVFvzI-qHdJ3LUZug,Seafood,4.4,"['1095 Hamilton St', 'Vancouver, BC V6B 5T4', 'Canada']",49.2761945,-123.1209935,$$$$,1135,False,147.3700509658384
+Chambar,_4R46MNkwx9MeOyt0YfNxA,Belgian,4.2,"['568 Beatty Street', 'Vancouver, BC V6B 2L3', 'Canada']",49.2801460007961,-123.109925328073,$$,1601,False,142.8578407789194
+The Farmhouse,WZz3gI0V6hN9M_cpeyo9Jg,"Italian, Wine Bars",4.3,"['352 East 10th Avenue', 'Vancouver, BC V5T 1Z7', 'Canada']",49.26185879464837,-123.09710762514682,N/A,28,False,211.59020152646906
